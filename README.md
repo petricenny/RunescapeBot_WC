@@ -12,3 +12,4 @@ Roadmap
 5) Change mouse movement pattern. Either implement patterns based on personal mouse movements, selecting a pattern based on absolute distance of X and Y coordinates, or use a mathematical model.
 6) Complete combat bot. Killing cows, tanning hide, then banking the tanned hides.
 7) Socket programming to remotely enable the bot client.
+8) Headless activation of bot to enable more clients.
